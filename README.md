@@ -1,3 +1,3 @@
 # git_test
 My first git repo
-hello ordin project
+hello ordin project its Kamogelo
